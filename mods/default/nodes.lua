@@ -194,7 +194,7 @@ default:cloud
 
 --]]
 
-local S = idefault.intllib
+local S = default.intllib
 
 --
 -- Stone
