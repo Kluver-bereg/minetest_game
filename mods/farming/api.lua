@@ -1,6 +1,8 @@
 
 -- Wear out hoes, place soil
 -- TODO Ignore group:flower
+local S = farming.intllib
+
 farming.registered_plants = {}
 
 farming.hoe_on_use = function(itemstack, user, pointed_thing, uses)
@@ -306,7 +308,7 @@ farming.register_plant = function(name, def)
 
 	-- Register harvest
 	minetest.register_craftitem(":" .. mname .. ":" .. pname, {
-		description = pname:gsub("^%l", string.upper),
+		description = S(pname:gsub("^%l", string.upper)),
 		inventory_image = mname .. "_" .. pname .. ".png",
 		groups = {flammable = 2},
 	})
