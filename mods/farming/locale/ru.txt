@@ -1,24 +1,26 @@
 #init.lua
-Wheat seed = Семена пшеницы
-Flour = Мука
-Bread = Хлеб
-Cotton seed = Сменая хлопка
+Wheat = пшеница
+Wheat seed = семена пшеницы
+Flour = мука
+Bread = хлеб
+Cotton =  хлопок
+Cotton seed = семена хлопка
 
 #hoes.lua
-Wooden Hoe = Деревянная мотыга
-Stone Hoe = Каменная мотыга
-Steel Hoe = Стальная мотыга
-Bronze Hoe = Бронзовая мотыга
-Mese Hoe = Мез мотыга
-Diamond Hoe = Алмазная мотыга
+Wooden Hoe = деревянная мотыга
+Stone Hoe = каменная мотыга
+Steel Hoe = стальная мотыга
+Bronze Hoe = бронзовая мотыга
+Mese Hoe = мез мотыга
+Diamond Hoe = алмазная мотыга
 
 #nodes.lua
-Soil = Поча
-Wet Soil = Влажная почва
-Desert Sand Soil = Песчанная почва
-Wet Desert Sand Soil = Влажная песчанная почва
-Straw = Солома
+Soil = почва
+Wet Soil = влажная почва
+Desert Sand Soil = песчанная почва
+Wet Desert Sand Soil = влажная песчанная почва
+Straw = солома
 
 #api.lua
-Hoe = Разрыхлять
-Seed = Семена
+Hoe = разрыхлять
+Seed = семена
