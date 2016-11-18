@@ -1,4 +1,4 @@
 #init.lua
-Glass Pane = Стеклянная панель
-Iron bar = Железнная кружка
+Glass Pane = стеклянное окно
+Iron bar = железная решетка
 
