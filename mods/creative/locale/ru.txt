@@ -1,0 +1,5 @@
+#init.lua
+@1 takes @2 from creative inventory = @1 взять @2 из творческого инвентаря
+Search = Поиск
+Reset = Сброс
+Crafting,All,Nodes,Tools,Items = Крафтинг, Все, Блоки, Инструменты, Изделия
