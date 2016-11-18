@@ -1,5 +1,5 @@
 #init.lua
-Bones = Кости
+Bones = кости
 @1's old bones = @1's старые кости
 @1's fresh bones = @1's свежие кости
 @1's bones = @1's кости
