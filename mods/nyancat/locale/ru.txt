@@ -3,5 +3,5 @@
 # last update: 2016/July/23
 # Author: maximsecret
 
-Nyan Cat = Нян кэт
-Nyan Cat Rainbow = Радуга нян кэта
+Nyan Cat = нян кэт
+Nyan Cat Rainbow = радуга нян кэта
