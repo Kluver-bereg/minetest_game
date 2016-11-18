@@ -1,2 +1,2 @@
 #init.lua
-Screwdriver (left-click rotates face, right-click rotates axis) = Отвертка (Левый клик повернуть сторону, правый клик вращать по оси)
+Screwdriver (left-click rotates face, right-click rotates axis) = отвертка (Левый клик повернуть сторону, правый клик вращать по оси)
