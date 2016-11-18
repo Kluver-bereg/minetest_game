@@ -1,2 +1,2 @@
 #init.lua
-Boat = Лодка
+Boat = лодка
